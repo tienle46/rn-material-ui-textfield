@@ -66,6 +66,11 @@
     "modulePathIgnorePatterns": [
       "<rootDir>/example"
     ]
+  },
+  "publishConfig": {
+    "access": "public",
+    "branches": [
+      "master"
+    ]
   }
-
 }
