@@ -7,7 +7,7 @@ export default StyleSheet.create({
   },
 
   input: {
-    top: 2,
+    top: 5,
     padding: 0,
     paddingTop: 0 /* XXX: iOS has paddingTop set for multiline input */,
     margin: 0,
